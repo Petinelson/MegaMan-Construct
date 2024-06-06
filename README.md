@@ -2,8 +2,8 @@
 
 Este repositório contém um projeto de jogo utilizando a plataforma Construct, focado em criar um jogo de plataforma 2D com personagens como Mario Bros e MegaMan. O objetivo é demonstrar o funcionamento de um jogo de plataforma 2D, incluindo a utilização de sprites e a aplicação de físicas.
 
-![Imagem do Projeto](https://github.com/MegaMan-FanMade/blob/main/imagem_do_projeto_01.png)
-![Imagem do Projeto](https://github.com/MegaMan-FanMade/blob/main/imagem_do_projeto_02.png)
+![Imagem do Projeto](https://github.com/Petinelson/MegaMan-Construct/blob/main/imagem_do_projeto_01.png)
+![Imagem do Projeto](https://github.com/Petinelson/MegaMan-Construct/blob/main/imagem_do_projeto_02.png)
 
 ## Sobre o Projeto
 
